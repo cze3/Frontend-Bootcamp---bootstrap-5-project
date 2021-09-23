@@ -1,0 +1,12 @@
+
+body {
+  display: block;
+  content: '';
+  height: 80px;
+  padding-top: 4.5rem;
+}
+@media (min-width:768px){
+  .news-input {
+    width: 50%;
+  }
+}
